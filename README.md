@@ -22,9 +22,9 @@ Because of the habit loop, building new habits and breaking old ones can be diff
 ## demos
 *brk* offers customized feedback based on your habit. It illustrates your old habit loop, and how to reshape it to form a new, better habit. The web app also offers a customized 5-step plan, backed by scientific research, on how specifically to tackle building your new habit.
 
-![habit input](website/imgs/demo1.jpg)
-![habit loops](website/imgs/demo2.jpg)
-![fivestep](website/imgs/demo3.jpg)
+![habit input](website/imgs/demo1.PNG)
+![habit loops](website/imgs/demo2.PNG)
+![fivestep](website/imgs/demo3.PNG)
 
 
 
