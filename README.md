@@ -7,7 +7,7 @@
 ## the habit loop
 A simple neurological loop lies at the core of any habitual behavior: a three-part sequence of cue, routine, and reward.
 
-![habit loop](imgs/blank.jpg)
+![habit loop](website/imgs/blank.jpg)
 
 The cue is the trigger for a habitual behavior to start. It can be a physical object such as food, an emotion (especially negative emotions like stress or fear), or simply a particular time of day or place. The routine is the subconscious behavior triggered by the cue, and the reward is the positive reinforcement your brain receives after completing a habit
 
@@ -22,9 +22,9 @@ Because of the habit loop, building new habits and breaking old ones can be diff
 ## demos
 *brk* offers customized feedback based on your habit. It illustrates your old habit loop, and how to reshape it to form a new, better habit. The web app also offers a customized 5-step plan, backed by scientific research, on how specifically to tackle building your new habit.
 
-![habit input](imgs/demo1.jpg)
-![habit loops](imgs/demo2.jpg)
-![fivestep](imgs/demo2.jpg)
+![habit input](website/imgs/demo1.jpg)
+![habit loops](website/imgs/demo2.jpg)
+![fivestep](website/imgs/demo3.jpg)
 
 
 
