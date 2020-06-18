@@ -1,0 +1,18 @@
+backend: css template + r shiny server
+frontend: yellow + white, lobster
+brk - break up with bad habits
+what is brk?
+	scentifically curated solutions to help you break your bad habits
+	
+i want to stop ___
+old habit loop: [img]
+new habit loop: [img]
+your 5-step plan for breaking your habit: 1., 2., 3., 4., 5.
+want to read some articles? here are some of the top-cited papers related to your habit:
+	1., 2., 3.
+
+what is brk?
+prevalence of habits
+based on the idea of the 3-part habit loop 
+	[img]
+	cue categories
