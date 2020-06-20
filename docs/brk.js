@@ -1,6 +1,6 @@
 $(document).ready(function(){
-    $('#habit-input').on('change', function() {
-      if ( this.value == 'drinking alcohol')
+    $('#habits').on('change', function() {
+      if (this.value == 'drinking alcohol')
       {
         $("#alcohol").show();
         $("#nailbite").hide();

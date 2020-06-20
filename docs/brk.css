@@ -21,7 +21,8 @@ h3 {
 	text-align: center;
 }
 
-#habit-input {
+#habits {
+	width: 200px;
 	border: 0;
 	background-color: #f1c232;
 	outline: 0;
