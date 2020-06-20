@@ -1,6 +1,22 @@
 $(document).ready(function(){
     $('#habits').on('change', function() {
-      if (this.value == 'drinking alcohol')
+        if (this.value == 'empty')
+      {
+        $("#alcohol").hide();
+        $("#nailbite").hide();
+        $("#overeat").hide();
+        $("#smoke").hide();
+        $("#soda").hide();
+        $("#tv").hide();
+        $("#procrastinate").hide();
+        $("#sleep").hide();
+        $("#phone").hide();
+        $("#staylate").hide();
+        $("#overspend").hide();
+        $("#exercise").hide();
+        $("#skipmeal").hide();
+      }
+      else if (this.value == 'drinking alcohol')
       {
         $("#alcohol").show();
         $("#nailbite").hide();
