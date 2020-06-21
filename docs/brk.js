@@ -16,7 +16,7 @@ $(document).ready(function(){
         $("#exercise").hide();
         $("#skipmeal").hide();
       }
-      else if (this.value == 'drinking alcohol')
+      else if (this.value == 'alc')
       {
         $("#alcohol").show();
         $("#nailbite").hide();
@@ -32,7 +32,7 @@ $(document).ready(function(){
         $("#exercise").hide();
         $("#skipmeal").hide();
       }
-      else if (this.value == "nail biting, skin picking, or hair pulling")
+      else if (this.value == "nail")
       {
         $("#alcohol").hide();
         $("#nailbite").show();
@@ -48,7 +48,7 @@ $(document).ready(function(){
         $("#exercise").hide();
         $("#skipmeal").hide();
       }
-      else if (this.value == "overeating/stress eating")
+      else if (this.value == "overeat")
       {
         $("#alcohol").hide();
         $("#nailbite").hide();
@@ -64,7 +64,7 @@ $(document).ready(function(){
         $("#exercise").hide();
         $("#skipmeal").hide();
       }
-      else if (this.value == "smoking") 
+      else if (this.value == "smoke") 
       {
         $("#alcohol").hide();
         $("#nailbite").hide();
@@ -80,7 +80,7 @@ $(document).ready(function(){
         $("#exercise").hide();
         $("#skipmeal").hide();
       }
-      else if (this.value == "drinking soda/caffinated drinks")
+      else if (this.value == "soda")
       {
         $("#alcohol").hide();
         $("#nailbite").hide();
@@ -96,7 +96,7 @@ $(document).ready(function(){
         $("#exercise").hide();
         $("#skipmeal").hide();
       }
-      else if (this.value == "binge-watching tv/netflix")
+      else if (this.value == "tv")
       {
         $("#alcohol").hide();
         $("#nailbite").hide();
@@ -112,7 +112,7 @@ $(document).ready(function(){
         $("#exercise").hide();
         $("#skipmeal").hide();
       }
-      else if (this.value == "procrastinating")
+      else if (this.value == "procra")
       {
         $("#alcohol").hide();
         $("#nailbite").hide();
@@ -128,7 +128,7 @@ $(document).ready(function(){
         $("#exercise").hide();
         $("#skipmeal").hide();
       }
-      else if (this.value == "sleeping in/sleeping past my alarm/oversleeping")
+      else if (this.value == "sleep")
       {
         $("#alcohol").hide();
         $("#nailbite").hide();
@@ -144,7 +144,7 @@ $(document).ready(function(){
         $("#exercise").hide();
         $("#skipmeal").hide();
       }
-      else if (this.value == "using my phone/checking social media")
+      else if (this.value == "phone")
       {
         $("#alcohol").hide();
         $("#nailbite").hide();
@@ -160,7 +160,7 @@ $(document).ready(function(){
         $("#exercise").hide();
         $("#skipmeal").hide();
       }
-      else if (this.value == "staying up late")
+      else if (this.value == "staylate")
       {
         $("#alcohol").hide();
         $("#nailbite").hide();
@@ -192,7 +192,7 @@ $(document).ready(function(){
         $("#exercise").hide();
         $("#skipmeal").hide();
       }
-      else if (this.value == "being sedentary")
+      else if (this.value == "exercise")
       {
         $("#alcohol").hide();
         $("#nailbite").hide();
@@ -208,7 +208,7 @@ $(document).ready(function(){
         $("#exercise").show();
         $("#skipmeal").hide();
       }
-      else if (this.value == "skipping meals")
+      else if (this.value == "skipmeal")
       {
         $("#alcohol").hide();
         $("#nailbite").hide();
